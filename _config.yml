@@ -16,7 +16,7 @@ author: Hawken Hass
 navbar-links:
   About: "aboutme"
   Resources:
-    - R Guides: "https://beautifuljekyll.com"
+    - R Guides: "rguides"
     - Helpful Links: "https://www.markdowntutorial.com/"
 
 # --- Logo --- #
