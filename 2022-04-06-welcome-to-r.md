@@ -15,7 +15,6 @@
 When you first open RStudio you will be presented with four quadrants on your screen.
 
 ![](https://timotheenivalis.github.io/RSB-R-Stats-Biology/00.Install/rstudiolayout.jpg)  
-
 source: https://timotheenivalis.github.io/RSB-R-Stats-Biology/00.Install/rstudiolayout.jpg
  
 In the top left quadrant is the "command center". This is where you will type in your code. To  execute a function simply type the code on any line and hit "control + enter" to run the code. If you start typing code R will often assist you in finishing the code. If you enter just part of the code you will be presented with a drop down menu of different options of code. Hitting "tab" on your keyboard will automatically input the rest of the code.
