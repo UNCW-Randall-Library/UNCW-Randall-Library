@@ -10,3 +10,6 @@ These guides are meant to take you step by step on how to use R to analyze your 
 [Module One: Welcome to R](2022-04-06-welcome-to-r.md)  
 [Module Two: Getting Started in R](Module2.md)  
 [Module Three: Graphing in R](Module3.md)
+
+
+## More guides coming soon!!!
