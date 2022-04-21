@@ -178,34 +178,6 @@ as.factor(cortisol_level_dat$Type)
     7 Class 7      5.57       2.92
     
 
-
-<ol class=list-inline>
-	<li>Class 1</li>
-	<li>Class 2</li>
-	<li>Class 3</li>
-	<li>Class 4</li>
-	<li>Class 5</li>
-	<li>Class 6</li>
-	<li>Class 7</li>
-</ol>
-
-<details>
-	<summary style=display:list-item;cursor:pointer>
-		<strong>Levels</strong>:
-	</summary>
-	<ol class=list-inline>
-		<li>'Class 1'</li>
-		<li>'Class 2'</li>
-		<li>'Class 3'</li>
-		<li>'Class 4'</li>
-		<li>'Class 5'</li>
-		<li>'Class 6'</li>
-		<li>'Class 7'</li>
-	</ol>
-</details>
-
-
-
 ```R
 barplot_cortisol_by_group<- ggplot(cortisol_level_dat, aes(Type, Mean_Cort, fill=Type)) + 
 theme(legend.position="none",plot.title=element_text(size=18))
