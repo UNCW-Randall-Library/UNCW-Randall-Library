@@ -14,7 +14,7 @@ Welcome to the basics of R! In this document you will learn the basics of R. In 
 
 However, before this step you must install R and Rstudio. To do so click this link:
 
-<https://www.r-project.org/
+https://www.r-project.org/
 
 # Setting Up Your R Work Space
 
