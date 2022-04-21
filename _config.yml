@@ -14,8 +14,8 @@ author: Hawken Hass
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About: "aboutme.md"
-  Resources: "2022-04-06-welcome-to-r.md"
+  About: "aboutme"
+  Resources:
     - R Guides: "rguides"
     - Helpful Links: "https://www.markdowntutorial.com/"
 
