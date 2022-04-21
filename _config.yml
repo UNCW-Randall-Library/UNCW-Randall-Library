@@ -15,7 +15,7 @@ author: Hawken Hass
 
 navbar-links:
   About: "aboutme"
-  Resources:
+  Resources:"2022-04-06-welcome-to-r.md"
     - R Guides: "rguides"
     - Helpful Links: "https://www.markdowntutorial.com/"
 
