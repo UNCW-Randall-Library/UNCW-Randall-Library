@@ -1,4 +1,4 @@
-### Excel Tutorials
+#### Helpful Resources
 
 [Download the dataset here to follow along!](Diabetes.xlsx)
 
