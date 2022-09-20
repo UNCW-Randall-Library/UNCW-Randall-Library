@@ -18,6 +18,6 @@ Click the Binder icon for an interactive version of these guides!
 [Module Three: Graphing in R](Module3.md)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/UNCW-Randall-Library/UNCW-Randall-Library.github.io/master?labpath=Graphing%20in%20R-Interactive.ipynb)
 
-[Graphing Data Files](https://github.com/UNCW-Randall-Library/UNCW-Randall-Library.github.io/tree/master/Graphing%20Data%20Files)
+[Graphing Data Files](zoo.txt)
 
 ## More guides coming soon!!!
