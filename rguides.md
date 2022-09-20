@@ -12,7 +12,9 @@ Click the Binder icon for an interactive version of these guides!
 [Module One: Welcome to R](2022-04-06-welcome-to-r.md)
 
 
-[Module Two: Getting Started in R](Module2.md)[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/UNCW-Randall-Library/UNCW-Randall-Library.github.io/master?labpath=Getting%20Started%20in%20R%20Interactive.ipyn
+[Module Two: Getting Started in R](Module2.md)
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/UNCW-Randall-Library/UNCW-Randall-Library.github.io/master?labpath=Getting%20Started%20in%20R%20Interactive.ipyn
 
 [Module Three: Graphing in R](Module3.md)
 
