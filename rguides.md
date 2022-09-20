@@ -10,11 +10,12 @@ Click the Binder icon for an interactive version of these guides!
 
 
 [Module One: Welcome to R](2022-04-06-welcome-to-r.md)
-[![Binder](https://mybinder.org/badge_logo.svg)]
+[![Binder](https://mybinder.org/badge_logo.svg)]()
 
 [Module Two: Getting Started in R](Module2.md)
-[![Binder](https://mybinder.org/badge_logo.svg)]
+[![Binder](https://mybinder.org/badge_logo.svg)]()
+
 [Module Three: Graphing in R](Module3.md)
-[![Binder](https://mybinder.org/badge_logo.svg)]
+[![Binder](https://mybinder.org/badge_logo.svg)]()
 
 ## More guides coming soon!!!
