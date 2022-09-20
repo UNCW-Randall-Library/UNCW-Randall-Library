@@ -10,7 +10,7 @@ Click the Binder icon for an interactive version of these guides!
 
 
 [Module One: Welcome to R](2022-04-06-welcome-to-r.md)
-[![Binder](https://mybinder.org/badge_logo.svg)]()
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/UNCW-Randall-Library/UNCW-Randall-Library.github.io/master?labpath=Welcome%20to%20R-Interactive.ipynb)
 
 [Module Two: Getting Started in R](Module2.md)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://notebooks.gesis.org/binder/jupyter/user/uncw-randall-li-brary.github.io-4t6cn1of/doc/tree/Getting%20Started%20in%20R-Interactive.ipynb)
