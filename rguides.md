@@ -16,6 +16,6 @@ Click the Binder icon for an interactive version of these guides!
 [![Binder](https://mybinder.org/badge_logo.svg)]()
 
 [Module Three: Graphing in R](Module3.md)
-[![Binder](https://mybinder.org/badge_logo.svg)]()
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/UNCW-Randall-Library/UNCW-Randall-Library.github.io/master?labpath=Graphing%20in%20R-Interactive.ipynb)
 
 ## More guides coming soon!!!
