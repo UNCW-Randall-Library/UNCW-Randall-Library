@@ -13,6 +13,8 @@ Click the Binder icon for an interactive version of these guides!
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/UNCW-Randall-Library/UNCW-Randall-Library.github.io/master?labpath=Welcome%20to%20R-Interactive.ipynb)
 
 [Module Two: Getting Started in R](Module2.md) 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/UNCW-Randall-Library/UNCW-Randall-Library.github.io/master?labpath=Getting%20Started%20in%20R%20Interactive.ipynb)
+
 [Module Three: Graphing in R](Module3.md)
 
 
