@@ -9,7 +9,7 @@ We are located inside Randall library in room 1023H. We offer support in statist
 
 ### About our data help desk consultant
 
-![](https://raw.githubusercontent.com/UNCW-Randall-Library/UNCW-Randall-Library.github.io/master/assets/website%20picture.jpeg)
+![](https://raw.githubusercontent.com/UNCW-Randall-Library/UNCW-Randall-Library.github.io/master/website%20picture.jpeg)
 
 Hi, my name is Hawken Hass and I am a second year psychology master's student. My expertise includes: data wrangling, graphing, t-tests, ANOVA, correlation, linear regression, GLM regression, multiple regression, hierarchical regression, and logistic regression.
 
