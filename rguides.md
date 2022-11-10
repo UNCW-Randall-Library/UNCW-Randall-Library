@@ -20,4 +20,6 @@ Click the Binder icon for an interactive version of these guides! (Note: it may 
 
 [Module Three Data Files](https://UNCW-Randall-Library.github.io/Graphing%20with%20R%20Data%20Files.zip)
 
+[Module Four Part 1: Data Cleaning using Tidyr](Module4P1.md)
+
 ## More guides coming soon!!!
