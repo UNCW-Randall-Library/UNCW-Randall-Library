@@ -21,4 +21,5 @@ Thursday: 1pm-5pm
 Friday: 12pm-2pm  
 
 ### Zoom Link
-[Click Here](https://uncw.zoom.us/my/uncwdataanalysis)
+[Click Here](
+https://uncw.zoom.us/my/uncwdataanalysis)
