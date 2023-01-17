@@ -14,9 +14,14 @@ We are located inside Randall library in room 1023H. We offer support in statist
 Hi, my name is Hawken Hass and I am a second year psychology master's student. My expertise includes: data wrangling, graphing, t-tests, ANOVA, correlation, linear regression, GLM regression, multiple regression, hierarchical regression, and logistic regression.
 
 ### Hours
-Tuesday: 1pm-5pm 
 
-Thursday: 1pm-5pm 
+Monday: Closed
+
+Tuesday: 2pm-5pm
+
+Wednesday: 3:30pm-5:30pm
+
+Thursday: 2pm-5pm 
 
 Friday: 12pm-2pm  
 
