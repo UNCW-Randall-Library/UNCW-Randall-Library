@@ -44,7 +44,7 @@ labs(title = "Frequency of Number of Legs", x="Number of Legs", y="Frequency")+s
 
 
     
-![png](output_10_0.png)
+![png](module3/download (1).png)
     
 
 
