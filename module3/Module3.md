@@ -44,7 +44,7 @@ labs(title = "Frequency of Number of Legs", x="Number of Legs", y="Frequency")+s
 
 
     
-![png](module3/download (1).png)
+![png](two.png)
     
 
 
@@ -64,7 +64,7 @@ scale_x_continuous(breaks=c(0,2,4,6,8))+facet_wrap(zoo_data$Type)
 
 
     
-![png](output_13_0.png)
+![png](three.png)
     
 
 
@@ -87,7 +87,7 @@ boxplot_cort+geom_boxplot()+labs(title="Boxplot of Cortisol Levels by Type", x="
 
 
     
-![png](output_17_0.png)
+![png](four.png)
     
 
 
@@ -105,7 +105,7 @@ labs(title="Boxplot of Cortisol Levels by Type", x="Type", y="Number of Cortisol
 
 
     
-![png](output_19_0.png)
+![png](five.png)
     
 
 
@@ -138,7 +138,7 @@ theme(text=element_text(size=20))
 
 
     
-![png](output_23_0.png)
+![png](six.png)
     
 
 
@@ -153,7 +153,7 @@ theme(text=element_text(size=20))+geom_errorbar(aes(ymin=Mean_Cortisol-Stdev, ym
 
 
     
-![png](output_25_0.png)
+![png](seven.png)
     
 
 
@@ -191,7 +191,7 @@ geom_errorbar(aes(ymin=Mean_Cort-Stdev_Type, ymax=Mean_Cort+Stdev_Type, width=.1
 
 
     
-![png](output_30_0.png)
+![png](eight.png)
     
 
 
@@ -207,7 +207,7 @@ geom_errorbar(aes(ymin=Mean_Cort-Stdev_Type, ymax=Mean_Cort+Stdev_Type, width=.1
 
 
     
-![png](output_32_0.png)
+![png](nine.png)
     
 
 
@@ -241,7 +241,7 @@ scale_x_continuous(breaks=c(1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,2
 
 
     
-![png](output_38_0.png)
+![png](ten.png)
     
 
 
@@ -257,7 +257,7 @@ geom_errorbar(aes(ymin=mean_cort_by_day-stdv_by_day, ymax=mean_cort_by_day+stdv_
 
 
     
-![png](output_40_0.png)
+![png](one.png)
     
 
 
