@@ -13,7 +13,7 @@ Click the Binder icon for an interactive version of these guides! (Note: it may 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/UNCW-Randall-Library/UNCW-Randall-Library.github.io/master?labpath=Welcome%20to%20R%20(5).ipynb)
 
 [Module Two: Getting Started in R](module2/Module2.md)
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/UNCW-Randall-Library/UNCW-Randall-Library.github.io/master?labpath=Getting%20Started%20in%20R-Interactive.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/UNCW-Randall-Library/UNCW-Randall-Library.github.io/master?labpath=Getting%20Started%20in%20R%20(5).ipynb)
 
 [Module Three: Graphing in R](module3/Module3.md)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/UNCW-Randall-Library/UNCW-Randall-Library.github.io/master?labpath=Graphing%20in%20R-Interactive.ipynb)
