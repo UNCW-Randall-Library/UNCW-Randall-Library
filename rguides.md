@@ -29,7 +29,7 @@ Click the Binder icon for an interactive version of these guides! (Note: it may 
 ## **Data Files**
 [Module Three Data Files](https://github.com/UNCW-Randall-Library/UNCW-Randall-Library.github.io/blob/a2504a42241c838c88aef12492a7bc0dc85e0c16/module3/Graphing%20with%20R%20Data%20Files%20(2).zip)
 
-[Module Four Data Files](module4/messydata.xlsx)
+[Module Four Data Files](module4/Module-4-Data-Files.zip)
 
 
 ## More guides coming soon!!!
