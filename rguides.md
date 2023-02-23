@@ -23,6 +23,7 @@ Click the Binder icon for an interactive version of these guides! (Note: it may 
 [Module Four Part 1: Data Cleaning using Tidyr](module4/Module4P1.md)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/UNCW-Randall-Library/UNCW-Randall-Library.github.io/master?labpath=Data%20Wrangling%20Part%201%20No%20Output.ipynb)
 
+[Module Four Part 2: Data Wrangling with Dplyr](module4/Module4P2.md)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/UNCW-Randall-Library/UNCW-Randall-Library.github.io/master?labpath=Data%20Wrangling%20Part%202%20(1).ipynb)
 
 [Module Four Data Files](module4/messydata.xlsx)
