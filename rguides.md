@@ -34,5 +34,7 @@ Click the Binder icon for an interactive version of these guides! (Note: it may 
 
 [Module Four Data Files](module4/Module-4-Data-Files.zip)
 
+[Module Five Data Files](module5/Module 5 Data Files.zip)
+
 
 ## More guides coming soon!!!
