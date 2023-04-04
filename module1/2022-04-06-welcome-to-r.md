@@ -55,18 +55,18 @@ In the Viewer tab you can view local web content.
 
 ## Data Structures
  
- Now that you are familiar with the set up of R, it is important to learn the vocabulary the comes along with the interface. Next module I will introduce the code needed to create these objects in Rstudio.
+ Now that you are familiar with the set up of R, it is important to learn the vocabulary the comes along with the interface. In the next module I will introduce the code needed to create these objects in Rstudio.
  
  **Vector**
 
 A vector is a data structure. It contains elements of the same type in a sequence.
  
-An example of a vector would be:An example of a vector would be:
+An example of a vector would be:
 ```{r}
 vector<-c(1,2,3,4,5,6)
 
 ```
-As you can see, this vector is numeric. Vectors could be any type of variable as long as each data point is the same type.
+As you can see, this vector is numeric. Vectors could be any type of variable as long as each data point is the same type (see Variable Type section.
 
 **Matrices**
 
@@ -79,7 +79,7 @@ matrix<- matrix(vector, nrow = 3, ncol=2, byrow=TRUE)
 
 **Lists**
 
-A list is a data structure that contains different types of elements. For example you could have numeric and nominal variables. 
+A list is a data structure that contains different types of elements. For example you could have numeric and character variables. 
 
 ```{r}
 list<-list("List 1"=1,2,3, "List 2"="a", "b", "c")
