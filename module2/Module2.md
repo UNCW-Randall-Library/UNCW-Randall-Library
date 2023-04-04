@@ -39,7 +39,7 @@ Once you have a package installed you will not have to re install it every time 
 
 ## Importing Data
 
-Now that you have you work space all set up, you can now start working with your data! If you don't have an existing data set you will need to make one. You can make one in RStudio (which we will cover below), or you can make on in other data analysis software. R accepts the following file types:
+Now that you have you work space all set up, you can now start working with your data! If you don't have an existing data set you will need to make one. You can make one in RStudio (which we will cover below), or you can make one in other data analysis software. R accepts the following file types:
 
 -   SPSS (.sav)
 -   Excel (.xlsx)
@@ -47,7 +47,7 @@ Now that you have you work space all set up, you can now start working with your
 -   Stata (.dta)
 -   Text file (.csv, .txt)
 
-In order to import your data you will need in downloaded onto your computer and to activate a package called "Haven". Haven allows you to read in these different data file types with code.
+In order to import your data you will need it downloaded onto your computer and then activate a package called "Haven". Haven allows you to read in these different data file types with code.
 ```
     library(haven)
 ```
@@ -58,8 +58,6 @@ Then type the following code:
     library(readxl)
     mydata<-read_excel("filename.xlsx")
 ```
-Always name your data in R. As you can see, I named the data "mydata" followed by an arrow and the code. Make sure the data file is in your working directory
-
 **For SPSS**
 ```
     library(haven)
@@ -84,6 +82,7 @@ Always name your data in R. As you can see, I named the data "mydata" followed b
 
     mydata<-read.csv("filename.csv")
 ```
+Always name your data in R. As you can see, I named the data "mydata" followed by an arrow and the code. Make sure the data file is in your working directory
 
 # Creating an Object
 
