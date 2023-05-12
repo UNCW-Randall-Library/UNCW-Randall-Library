@@ -39,5 +39,7 @@ Click the Binder icon for an interactive version of these guides! (Note: it may 
 
 [Module Five Data Files](module5/module_5_dat.zip)
 
+[Module Six Data Files](module6/orange.txt)
+
 
 ## More guides coming soon!!!
