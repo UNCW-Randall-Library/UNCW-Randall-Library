@@ -9,22 +9,21 @@ We are located inside Randall library in room 1023H. We offer support in statist
 
 ### About our data help desk consultant
 
-![](https://raw.githubusercontent.com/UNCW-Randall-Library/UNCW-Randall-Library.github.io/master/website%20picture.jpeg)
+Hi, my name is Brittanie and I am a fourth year Psychological Science doctoral candidate. My expertise includes data wrangling, graphing, t-tests, ANOVA, correlation, various regression models, multivariate models such as MANOVA, discriminant function analysis and factor analysis, and path and structural equation modeling. I am also knowledgeable in research design, especially experimental methods.
 
-Hi, my name is Hawken Hass and I am a second year psychology master's student. My expertise includes: data wrangling, graphing, t-tests, ANOVA, correlation, linear regression, GLM regression, multiple regression, hierarchical regression, and logistic regression.
 
 ### Hours
 
-Monday: Closed
+Monday: 1pm-4pm
 
-Tuesday: 2pm-5pm
+Tuesday: closed
 
-Wednesday: 3:30pm-5:30pm
+Wednesday: 1pm-4pm
 
-Thursday: 2pm-5pm 
+Thursday: closed
 
-Friday: 12pm-2pm  
+Friday: 1pm-4pm zoom only  
 
 ### Zoom Link
 [Click Here](
-https://uncw.zoom.us/my/uncwdataanalysis)
+[https://uncw.zoom.us/my/uncwdataanalysis](https://lib.uncw.edu/uncwDataAnalysis)https://lib.uncw.edu/uncwDataAnalysis)
