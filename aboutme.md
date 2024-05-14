@@ -14,15 +14,17 @@ Hi, my name is Brittanie and I am a fourth year Psychological Science doctoral c
 
 ### Hours
 
-Monday: 1pm-4pm
+Monday: 10am-1pm & 3pm-6pm
 
-Tuesday: closed
+Tuesday: 10am-1pm
 
-Wednesday: 1pm-4pm
+Wednesday: 10am-2pm & 2pm-5pm
 
-Thursday: closed
+Thursday: 10am-1pm
 
-Friday: 1pm-4pm zoom only  
+Friday: closed
+
+All hours are Zoom only for the Summer
 
 ### Zoom Link
 [Click Here](
